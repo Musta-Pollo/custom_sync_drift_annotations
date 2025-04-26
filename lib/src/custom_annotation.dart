@@ -1,7 +1,7 @@
 // Our annotation
-class CustomAnnotation{
+class CustomAnnotation {
   const CustomAnnotation();
 }
 
 // This variable will used as annotation to generate the code
-const customAnnotation =  CustomAnnotation();
+const customAnnotation = CustomAnnotation();
