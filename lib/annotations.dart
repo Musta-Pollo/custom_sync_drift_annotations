@@ -1,4 +1,4 @@
 library custom_sync_drift_annotations;
 
-export 'src/custom_annotation.dart';
-export 'src/sync_annotation.dart';
+export 'src/custom_sync.dart';
+export 'src/sync_manager.dart';
